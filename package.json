@@ -1,1 +1,25 @@
-{}
+{
+  "name": "testcafe_test_candfbootcamp",
+  "description": "**Dependencies** - TestCafe - Node.js",
+  "version": "1.0.0",
+  "main": "test1.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RMZK/TestCafe_Test_CandFBootcamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RMZK/TestCafe_Test_CandFBootcamp/issues"
+  },
+  "homepage": "https://github.com/RMZK/TestCafe_Test_CandFBootcamp#readme",
+  "dependencies": {
+    "testcafe": "^1.13.0"
+  }
+}
